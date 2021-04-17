@@ -1,8 +1,8 @@
-# Humidity-temperature-senseing-project
+# Applied IoT project
 
 
-This is The github page for our Humidity and temperature sensing project.
+This is The github page for Applied IoT project.
 
-Over here you can find the code and all the libraries used for the esp32 microcontroller which is required for this project. 
+Over here you can find the code and all the libraries used for all the projects project. 
 
-Detailed information of this project is in https://github.com/popo5611/Humidity-temperature-senseing-project/wiki
+Detailed information of Humidity-temperature-sensing project is in https://github.com/popo5611/Humidity-temperature-senseing-project/wiki
